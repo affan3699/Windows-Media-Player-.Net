@@ -1,0 +1,43 @@
+D:\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe.config
+D:\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe
+D:\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.pdb
+D:\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Properties.Resources.resources
+D:\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.GenerateResource.cache
+D:\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.exe
+D:\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.pdb
+D:\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.mediaPlayerForm.resources
+D:\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.ResolveComReference.cache
+D:\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.CopyComplete
+D:\BACKUP\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe.config
+D:\BACKUP\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe
+D:\BACKUP\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.pdb
+D:\BACKUP\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\BACKUP\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\BACKUP\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\BACKUP\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\BACKUP\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.ResolveComReference.cache
+D:\BACKUP\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.mediaPlayerForm.resources
+D:\BACKUP\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Properties.Resources.resources
+D:\BACKUP\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.GenerateResource.cache
+D:\BACKUP\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.exe
+D:\BACKUP\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.pdb
+D:\BACKUP\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csprojAssemblyReference.cache
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe.config
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.pdb
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Interop.WMPLib.dll
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csprojAssemblyReference.cache
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\Interop.WMPLib.dll
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.ResolveComReference.cache
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.mediaPlayerForm.resources
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Properties.Resources.resources
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.GenerateResource.cache
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.CopyComplete
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.exe
+E:\DSU\Semester3\Data Structures Lab\DSA Project\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.pdb
